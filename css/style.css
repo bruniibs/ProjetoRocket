@@ -26,3 +26,9 @@ html{
 section{
     padding: 2rem 9%;
 }
+
+.logo{
+    height: 4%;
+    width: 4%;
+    margin-left: 1%;
+}
